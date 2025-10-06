@@ -145,7 +145,7 @@ GET    /api/analytics/maintenance/:id - Maintenance predictions
 │  • Anomaly Detection │   │   • In-Memory (Development)        │
 │  • Alert Generation  │   │   • PostgreSQL (Production)        │
 │  • Predictive ML     │   │   • Tables: vehicles, telemetry,   │
-│  • Real-time Processing  │     alerts                         │
+│  • Real-time Processing  │   │     alerts                         │
 └──────────┬───────────┘   └────────┬───────────────────────────┘
            │                        │
            └────────┬───────────────┘
