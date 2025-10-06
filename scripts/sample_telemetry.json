@@ -1,0 +1,21 @@
+{
+  "vehicle_id": "VEH-1001",
+  "vehicle_type": "Truck",
+  "timestamp": "2025-01-06T10:30:45.123Z",
+  "location": {
+    "latitude": 37.774929,
+    "longitude": -122.419416
+  },
+  "speed": 65.5,
+  "engine_temperature": 92.3,
+  "fuel_level": 78.5,
+  "odometer": 125430.2,
+  "engine_status": "normal",
+  "tire_pressure": {
+    "front_left": 32.5,
+    "front_right": 32.8,
+    "rear_left": 33.1,
+    "rear_right": 32.9
+  },
+  "battery_voltage": 13.8
+}
