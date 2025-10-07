@@ -12,7 +12,7 @@
 
 *Real-time telemetry tracking | Anomaly detection | Predictive maintenance | Alert management*
 
-[Live Demo](#getting-started) • [Documentation](DOCUMENTATION.md) • [Features](#-key-features) • [Architecture](#-architecture)
+[Live Demo](#getting-started) • [Documentation](DOCUMENTATION.md) • [Repository Review](REPOSITORY_REVIEW.md) • [Features](#-key-features) • [Architecture](#-architecture)
 
 </div>
 
@@ -21,6 +21,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Repository Review](REPOSITORY_REVIEW.md) - **New! Comprehensive Technical Analysis**
 - [Key Features](#-key-features)
 - [Architecture](#-architecture)
 - [Technology Stack](#-technology-stack)
