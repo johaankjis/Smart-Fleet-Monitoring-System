@@ -2,6 +2,8 @@
 
 A comprehensive IoT vehicle monitoring platform with real-time telemetry, analytics, and alert management.
 
+> 📊 **[View Comprehensive Repository Review](REPOSITORY_REVIEW.md)** - Detailed technical analysis, code quality assessment, and recommendations
+
 ## Architecture
 
 This system simulates a production-grade fleet monitoring architecture:
